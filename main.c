@@ -1,0 +1,13 @@
+/*
+ * main.c
+ *
+ *  Created on: 21 oct 2026
+ *      Author: progra
+ */
+
+#include <stdio.h>
+
+int main(void) {
+	printf("Hola Eclipse!\n");
+	return 0;
+}
