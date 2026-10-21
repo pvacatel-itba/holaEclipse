@@ -10,5 +10,6 @@
 int main(void) {
 	printf("Hola Eclipse!\n");
 	printf("Como estas?\n");
+	printf("Yo bien\n");
 	return 0;
 }
